@@ -1,0 +1,66 @@
+body {
+
+	background: #666666;
+	width: 100%;
+	height: 120px;
+}
+
+#icon {
+	width: 120px;
+	height: 120px;
+}
+
+header * {
+	display: inline;
+}
+
+header h1 { 
+	font-size: 100px; 
+}
+
+*{
+	color: #F1F7EE;
+}
+
+blockquote {
+	color: black;
+}
+
+p {
+	color: black;
+}
+nav a {
+
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+	color: #E7F59E;
+}
+
+nav a:hover {
+
+	border: 0.5px #F1F7EE solid
+}
+
+nav {
+	position: fixed;
+	width: 100;
+	top: 0;
+	right: 0;
+}
+
+#profile {
+
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	border: 3px solid blue;
+}
+
+#somepic{
+
+	border-radius: 20%;
+	width: 300px;
+	height: 300px;
+	border: 1px solid red;
+	position: center; 
+}
