@@ -1,0 +1,34 @@
+hr{
+ border:solid black;
+ }
+ body {
+ background-color:#233067 ;
+ }
+a {
+font-size:20px;
+text-decoration: none;
+color: #000000;
+background-color:white;
+
+
+}
+
+nav {
+	padding:10px 10px 10px 10px;
+	top:0px;
+	vertical-align:top;
+}
+
+nav a:hover{
+
+border: 2px black solid;
+}
+img{
+width: 500px;
+height: 500px;
+border-radius:50%;
+
+}
+#amen {
+	color:#b0e0e6;
+}
