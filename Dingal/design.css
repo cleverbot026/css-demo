@@ -1,0 +1,55 @@
+body {
+
+	background-color: white;
+	background-image: url(Darth.jpg);
+	width: 1200;
+	height: 1300px;
+    background-repeat: no-repeat;
+    background-position: center ;
+
+
+
+
+}
+nav a:hover{
+	border: 2px solid black;
+}
+
+a{
+	text-decoration: none;
+}
+
+# {
+
+
+	border-radius: 50%;
+	width: 200px;
+	height: 200px; 
+}
+
+#jah {
+
+
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+
+    nav a
+     {
+     padding: 5px 5px 5px 5px;
+     color:black;
+     border:black 3px solid;
+     text-decoration: none;
+     }
+     nav a:hover
+     {
+     border: 3px white solid;
+     }
+     nav {
+
+     	 position: fixed;
+     	 background-color: white;
+     	 top: 0;
+     	 width: 100%
+     }
