@@ -1,0 +1,49 @@
+body {
+	background-image: linear-gradient(#34d2eb,#34ebdf);
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+nav a {
+
+	text-decoration-line: none;
+	float: right;
+	padding: 20px 20px 20px 20px;
+	margin-left: 10px;
+	font-family: sans-serif;
+	color: black;
+	border: white 1px solid;
+}
+nav p {
+
+	padding-right: 20px;
+	margin-top: 0;
+}
+
+nav a:hover {
+
+	background-color: black;
+	color: white;
+}
+
+nav {
+	background-color: gray;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+.heads h1 {
+
+	font-family: helvetica;
+	font-size: 50px;
+	padding-top: 50px;
+}
+
+.pic img{
+
+	border-radius: 50%;
+	width: 360px;
+	height: 360px;
+}
