@@ -1,0 +1,52 @@
+* {
+	font-family: "Franklin Gothic";
+
+}
+h1 {
+	color:#1F01B9;
+	font-size: 75px;
+}
+h3 {
+	color: green;
+}
+b {
+	color:#00FFFF;
+}
+img {
+	border-radius:50%; 
+	width: 150px;
+	height:150px;
+}
+#logo{
+	width: 75px;
+	height:75px;
+}
+header *{
+	display: inline;
+	vertical-align: top;
+}
+body {
+	background-color: black;
+}
+p {
+	color:white;
+}
+nav p a {
+	text-decoration: none;
+	padding: 10px;
+	color: white;
+	border:	#000000 0.5px dotted;
+	margin:5px;
+}
+nav p a:hover {
+	border:#F0FFFF 0.5px dotted;
+}
+nav {
+	position: fixed; 
+	background-color:#000000 ;
+	top: 0;
+	width: 100%;
+}
+header {
+	margin-top: 50px;
+}
