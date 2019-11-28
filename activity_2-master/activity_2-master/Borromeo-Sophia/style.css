@@ -1,0 +1,51 @@
+* {
+	font-family:"Ink Free regular";
+}
+
+h1{
+
+	color: yellow; 
+}
+
+header * {
+
+	display: inline;
+}
+
+ 
+ 
+
+#hi {
+
+	height:150;
+	width:150;
+} 
+
+#ho{
+
+	height: 50px;
+	width: 50px;
+}
+.imageClass {
+	height: 300px;
+	width: 250px;
+	border-radius:50%;
+} 
+
+nav p a {
+	text-decoration:none; 
+	padding: 20px; 
+ 	border: #ffffff 0.5px solid;
+}
+
+nav p a:hover {
+
+	border:#1F271B 0.5px solid;
+}
+
+nav{
+	background-color: #E0F2E9;
+	position:fixed;
+	top: 0;
+	width:100%;
+}
